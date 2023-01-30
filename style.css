@@ -1,0 +1,40 @@
+    .lets{
+        font-size: 5rem;
+        color: blueviolet;
+        display: flex;
+        justify-content: center;
+    }
+
+    .row{
+        display: flex;
+    }
+    .main{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+        align-items: center;
+        background-color: pink;
+        width: 40vw;
+        border-radius: 23px;
+    }
+    .row button{
+            border: 2% solid black;
+            font-size: 2em;
+            height: 8vh;
+            width: 8vw;
+            margin: 10px;
+            background-color: lightblue;
+            cursor: pointer;
+            color: green;
+            border-radius: 23px;
+        }
+
+    .row input{
+        height: 10vh;
+        width: 35vw;
+        border-radius: 25%;
+        border-color: aqua;
+        font-size: 259%;
+        color: blue;
+    }
